@@ -22,7 +22,7 @@ export default function Home() {
             </Hero>
             <Preview>
                 <Image src={previewImage}
-                    width={400}
+                    width={640}
                     height={400}
                     quality={100}
                     priority
